@@ -1,0 +1,23 @@
+{
+  "name": "route_spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JI-Villalobos/RouterSPA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JI-Villalobos/RouterSPA/issues"
+  },
+  "homepage": "https://github.com/JI-Villalobos/RouterSPA#readme",
+  "devDependencies": {
+    "http-server-spa": "^1.3.0"
+  }
+}
